@@ -1,0 +1,39 @@
+package a1;
+
+public class project {
+	public String name;
+	public String desc ;
+	
+	
+	
+	
+	
+	
+	public project() {
+		super();}
+	
+	public project(String name) {
+		super();
+		this.name=name;	}
+	public project(String name, String desc) {
+		super();
+		this.name=name;
+		this.desc=desc;
+		
+	}
+	
+		
+		
+	
+	public void elevatorPitch (){
+		System.out.println(name+"   "+desc+"\n");
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

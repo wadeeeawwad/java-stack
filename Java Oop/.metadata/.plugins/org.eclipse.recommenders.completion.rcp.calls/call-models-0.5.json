@@ -1,0 +1,12 @@
+{
+  "C:\\Program Files\\Java\\jre1.8.0_291\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre1.8.0_291\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jre1.8.0_291\\lib\\rt.jar\u0027. Neither fingerprint \u00271414a84388f990eac31bccb3c44debaf9a5cf671\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "C:\\Users\\DELL\\Desktop\\java stack\\Java Oop\\a1\\src": {
+    "location": "C:\\Users\\DELL\\Desktop\\java stack\\Java Oop\\a1\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\DELL\\Desktop\\java stack\\Java Oop\\a1\\src\u0027. Skipped."
+  }
+}
