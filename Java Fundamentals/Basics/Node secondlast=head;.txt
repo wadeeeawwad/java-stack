@@ -1,0 +1,3 @@
+Node secondlast=head;
+while(secondlast.next.next!=null)
+secondlast=seconlast.next

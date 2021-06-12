@@ -668,3 +668,10 @@ org.eclipse.core.internal.resources.ResourceException: Resource '/a2/src/a2/Node
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
 !SUBENTRY 1 org.eclipse.core.resources 4 368 2021-06-12 15:44:06.069
 !MESSAGE Resource '/a2/src/a2/Node.java' does not exist.
+
+!ENTRY org.eclipse.core.resources 2 2 2021-06-12 15:49:05.764
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-06-12 15:49:05.764
+!MESSAGE The project description file (.project) for 'a1' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2021-06-12 15:49:05.765
+!MESSAGE The project description file (.project) for 'a2' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
