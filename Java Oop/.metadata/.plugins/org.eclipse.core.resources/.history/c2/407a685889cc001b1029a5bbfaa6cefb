@@ -1,0 +1,17 @@
+
+public interface Ringable {
+	public String ring() {
+		return "hello";
+	}
+		
+		
+	
+	public String unlock() {
+        return "hello";
+        
+        
+    }
+
+	
+
+}

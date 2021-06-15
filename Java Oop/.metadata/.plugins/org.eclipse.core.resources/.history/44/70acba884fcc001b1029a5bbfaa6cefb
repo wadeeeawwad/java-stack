@@ -1,0 +1,40 @@
+import java.util.Random;
+
+
+public class main {
+
+	public static void main(String[] args) {
+		BankAccount ba = new BankAccount();
+		ba.depositMoney(100.49, "checking");
+		ba.depositMoney(3.00, "savings");
+		ba.displayAccountBalance();
+
+		System.out.println(BankAccount.totalHoldings);
+
+		ba.withdrawMoney(50, "checking");
+		ba.withdrawMoney(50, "savings");
+		ba.displayAccountBalance();
+
+		System.out.println(BankAccount.totalHoldings);
+		
+		
+		
+		
+//		rand();
+
+	}
+//	public static void rand(){
+//		 Random r=new Random();
+//		 
+//		 for(int i=0;i<10;i++){
+//			 
+//			 System.out.println(r.nextInt(9));
+//			 
+//		 }
+		 
+	}
+
+	 
+
+//}
+

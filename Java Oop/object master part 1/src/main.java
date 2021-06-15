@@ -1,21 +1,14 @@
 
-public class main {
+public class Main {
 
 	public static void main(String[] args) {
 	Human a=new Human();
-	a.setNum(5);
-	a.attack();
+	Human b=new Human();
+
+	// a.sethealth(5);
 	
+	a.attack(b);
 	
-		
-		
-		
-		
-		
-		
-		
-		
-		
 
 	}
 

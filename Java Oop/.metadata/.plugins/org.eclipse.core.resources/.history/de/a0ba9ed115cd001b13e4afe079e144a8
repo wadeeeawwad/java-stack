@@ -1,0 +1,17 @@
+
+public class Calculator {
+
+	    public static void main(String[] args) {
+	    	calc c = new calc();
+	        c.setNum1(10.5);
+	        c.setNum2(5.2);
+	        c.setOperator('+');
+	        c.performOperation();
+	        c.getResults();
+	    
+
+
+
+	}
+
+}
